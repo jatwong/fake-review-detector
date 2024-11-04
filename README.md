@@ -14,16 +14,15 @@ Following CRISP-DM and Agile, the project was structured in six phases: Business
 ## Visualizations
 The following are some examples of data visualization of this project.
 
-Confusion matrix showing...
-
+This confusion matrix is a visual representation of the performance of the classification model by comparing the predicted and actual classifications. The diagonal cells represent the number of accurately classified data.
 
 ![png](output_4_0.png)
     
 
-Correlation heatmap showing...
+Correlation heatmap shows the correlation between specific features. In this case, the map is showing correlations between a review's length, its sentiment score, and its current label in the dataset (whether the review was computer-generated or written by a human).
     
 ![png](output_5_0.png)
     
-Pair plot showing the relationship between a review's length, sentiment score, and its label.
-    
+Pair plot showing the relationship between a review's length and sentiment score across the data points. The plots are set to be colored by the data point's label. Here, CG is for computer-generated reviews and OR is for reviews written by a human.
+
 ![png](output_6_0.png)
