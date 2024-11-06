@@ -1,7 +1,7 @@
 # Fake Review Detector
 
 ## Project Summary
-This project uses machine learning to develop a fake review detector.
+This project uses machine learning to develop a fake review detector. *Due to academic integrity reasons, I will not be disclosing the source code.*
 
 Fake reviews undermine trust between buyers, sellers, and platforms, misleading buyers and damaging credibility. This was developed for an e-commerce platmore as an automated, scalable solution to filter out fake reviews. The solution aims to streamline review moderation, enhance authenticity, and improve user trust on the platform.
 
